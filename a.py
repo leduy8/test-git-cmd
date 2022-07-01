@@ -1,2 +1,3 @@
-haha = 'lololol'
+haha = 'bro'
 something = 'hahaha'
+lul = 'omegalul'
